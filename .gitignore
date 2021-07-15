@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
@@ -31,3 +32,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#properties file
+application.properties
+
+#xml
+pom.xml
